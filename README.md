@@ -2,6 +2,8 @@
 ![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 <img src="![WhatsApp Image 2025-06-17 at 22 47 44_41ba769e](https://github.com/user-attachments/assets/577b3844-24b8-4c0a-a3e6-44fe6106af7b)
 " width="100%" />
+![Visitor Count](https://komarev.com/ghpvc/?username=Adnan00707&color=blue&style=flat)
+
 ## 👨‍💻 About Me<br><br>Hey! I'm **Adnan Soni**, a highly motivated and hardworking B.Tech student in **Computer Science & Engineering (AI & Data Science)** at **IIIT Kottayam**.<br><br>I’m passionate about using technology to solve real-world problems. Whether it's building intelligent ML models, crafting clean and functional websites, or exploring app development — I love creating things that matter. I'm constantly learning, experimenting, and refining my skills across different domains.<br><br>---<br><br>## 🌱 Currently Learning<br>- Transformers, multilingual NLP, and text classification  <br>- Docker, model deployment, and CI/CD workflows  <br>- Advanced app development using modern frameworks<br><br>---<br><br><br>---<br><br>## 📫 Reach Me At<br>- 📧 **Email**: adnansoni2020@gmail.com  <br>- 🔗 **LinkedIn**: [adnan-soni-327a3b258](https://www.linkedin.com/in/adnan-soni-327a3b258/)<br>
 
 
